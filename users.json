@@ -1,0 +1,16 @@
+[
+    {
+         "name":"rithik",
+         "email":"rithik@gmail.com",
+         "phone":"9823456543",
+         "role":"admin",
+         "location":"vijayawada"
+    },
+    {
+        "name":"test",
+        "email":"test@gmail.com",
+        "phone":"9922331188",
+        "role":"admin",
+        "location":"vijayawada"
+    }
+]
